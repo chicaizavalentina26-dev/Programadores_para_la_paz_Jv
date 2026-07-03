@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes se muestra una lista con todos los reportes que han sido registrados mediante la ruta POST. Cada reporte incluye un identificador, el tipo y la descripción. Si aún no se ha registrado ningún reporte, la respuesta será una lista vacía ([]).
