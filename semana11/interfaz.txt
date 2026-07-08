@@ -1,0 +1,9 @@
+La interfaz de la plataforma tendría un formulario para crear nuevas peticiones comunitarias.
+
+Los usuarios podrían ingresar información como título, descripción y fecha.
+
+También tendría una vista con las solicitudes registradas y sus estados.
+
+Cada petición podría mostrar información de seguimiento y avances.
+
+La interfaz debe ser sencilla, clara y evitar mostrar información privada de los usuarios.
