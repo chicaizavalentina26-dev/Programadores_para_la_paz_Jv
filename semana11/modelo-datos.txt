@@ -1,0 +1,24 @@
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+
+Propósito:
+Almacenar la información básica de los usuarios y permitir controlar los permisos de acceso dentro de la plataforma.
+
+
+Entidad: Petición
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+- usuario_id
+
+Propósito:
+Registrar las solicitudes realizadas por la comunidad y permitir su seguimiento durante el proceso.
