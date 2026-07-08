@@ -1,0 +1,13 @@
+Una plataforma tecnológica de participación ciudadana necesita una base de datos porque permite almacenar y organizar la información de manera adecuada.
+
+La autenticación de usuarios ayuda a proteger el acceso y controlar las funciones disponibles.
+
+Además, permite asignar permisos según el rol de cada usuario.
+
+La protección de información evita riesgos relacionados con la privacidad de la comunidad.
+
+El manejo responsable de datos genera confianza entre los ciudadanos.
+
+Una plataforma segura facilita la participación y el seguimiento de procesos.
+
+La tecnología debe apoyar a la comunidad respetando sus derechos y datos personales.
