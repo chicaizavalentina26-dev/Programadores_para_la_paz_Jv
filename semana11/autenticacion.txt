@@ -1,0 +1,11 @@
+El login permite identificar a un usuario antes de ingresar a una aplicación.
+
+La autenticación permite controlar quién puede acceder a ciertas funciones de la plataforma.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada o acciones administrativas.
+
+Los usuarios pueden tener diferentes permisos según su rol.
+
+No se deben publicar contraseñas, tokens, claves de API ni información sensible de la comunidad.
+
+La protección de datos ayuda a mantener la seguridad y confianza de los usuarios.
