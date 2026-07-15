@@ -1,0 +1,20 @@
+Modelo básico de datos del sistema:
+
+Entidad: Causa
+
+- id: Identificador único de la causa.
+- titulo: Nombre o título de la petición.
+- descripcion: Información que explica la problemática o solicitud.
+- fecha: Fecha en la que fue creada la causa.
+
+La entidad Causa permite almacenar la información principal de cada petición creada dentro de la plataforma.
+
+
+Entidad: Apoyo
+
+- id: Identificador único del apoyo registrado.
+- causa_id: Identificador de la causa a la que pertenece el apoyo.
+- nombre: Nombre del ciudadano que brinda apoyo.
+- fecha: Fecha en la que se registró el apoyo.
+
+La entidad Apoyo permite registrar la participación ciudadana y conocer cuántas personas respaldan una causa.
